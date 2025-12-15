@@ -1,4 +1,4 @@
-# TinyTPU: A simple JAX simulator
+# TinyTPU: A simple TPU simulator
 
 This notebook implements a simple cycle-accurate TPU simulation. The main goal is to illustrate how simple high-level JAX code can get executed with low-level systolic hardware. 
 
